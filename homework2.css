@@ -1,0 +1,241 @@
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+form{
+    background-color:#628703;
+    margin: 10px 5px 5px 5px;
+        border: 2px solid #1b8a2a;
+        border-radius: 10px 20px 10px 20px; /* üst sol, üst sağ, alt sağ, alt sol */
+        padding: 10px;
+        height: 900px;
+    }
+   
+    
+
+body{
+ border: 5px; solid; white
+    background-color: white
+    margin: 25px;
+}
+
+
+label{
+    border: 2px radius white;
+    padding: 2px;
+}
+/* input{
+   border-radius: 20px;
+  margin-left:20px 100px 400px ;
+   text-align: center;
+} */
+ .a{
+    border: 2px solid rgb(206, 242, 144);
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+  }
+
+
+.a input{
+   padding: 3px 40px;
+   margin: auto;
+   margin-left: 65px;
+   border-radius: 5px;
+}
+
+.a2{
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+  }
+
+
+.a2 input{
+   padding: 3px 30px;
+   margin: auto;
+   margin-left: 80px;
+   border-radius: 5px;
+}
+.a3{
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+  }
+
+
+.a3 input{
+   padding: 3px 40px;
+   margin: auto;
+   margin-left: 80px;
+   border-radius: 5px;
+}
+
+
+
+input{
+    accent-color: rgb(30, 30, 185);
+}
+/* 
+.kayıt input{
+    background-color:rgb(4, 32, 4);
+   color: rgb(231, 224, 224);
+border: 5px radio white;
+    
+   
+} */
+
+.adres{
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 5px 10px 10px 1px;
+    margin: 2px 30px 2px 30px;
+    margin-bottom: px;
+    background-color: #9dce6c;
+
+}
+/* .adres label{
+    margin:auto;
+    margin: 15px 20px 50px 60px;
+  
+    background-color: aqua;
+} */
+
+.adres input{
+    padding: 50px 50px;
+   
+   margin-left: 80px;
+   border-radius: 7px;
+   text-align: center;
+  
+}
+
+.b1{border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+
+}
+.b1 input{
+    padding: 6px 50px;
+    margin: auto;
+    margin-left: 50px;
+    border-radius: 5px;
+ 
+
+}
+
+.b2{border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+
+}
+.b2 select{
+    padding: 5px 45px;
+    margin: auto;
+    margin-left: 90px;
+    border-radius: 5px;
+ 
+
+}
+
+.kayıt{
+    margin: 10px 45px;
+   padding: 10px 40px;
+    border: 1px solid green;
+    border-radius: 18px;
+    background-color: rgb(3, 35, 2);
+    color:white;
+}
+
+.delete{
+    margin: -15px;
+       padding: 10px 40px;
+        border: 1px solid green;
+        border-radius: 18px;
+        background-color: rgb(18, 39, 12);
+        color:white;
+    
+    
+}
+
+.no{border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+
+}
+.no input{
+    padding: 6px 50px;
+    margin: auto;
+    margin-left: 70px;
+    border-radius: 5px;
+ 
+}
+
+
+.kod{border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+
+}
+select{
+    padding: 6px 125px;
+    margin: auto;
+    margin-left: 66px;
+    border-radius: 5px;
+ 
+}
+h3{
+    color: #17410f;
+}
+
+.kart{border: 2px solid white;
+    border-radius: 5px;
+    padding: 27px 5px ;
+    margin: 2px 30px 2px 30px;
+    background-color: #9dce6c;
+
+}
+.kart input{
+    padding: 40px 50px;
+background-color: rgb(41, 23, 38);
+    margin-left: 70px;
+    border-radius: 5px;
+    color: rgb(227, 205, 15);
+ 
+}
+
+#naz{
+    /* border: 1px solid blue; */
+background-color: rgb(15, 3, 69);
+color: antiquewhite;
+font-size: 25px;
+}
+
+
+#pa{
+    font-size: 25px;
+background-color: rgb(21, 19, 31);
+color: rgb(11, 3, 39);
+}
+
+#ma{
+    font-size: 25px;
+background-color: rgb(230, 11, 11);
+color: rgb(11, 3, 39);
+}
